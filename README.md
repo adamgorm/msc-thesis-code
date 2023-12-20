@@ -35,9 +35,9 @@ functions from this file in order to benchmark, plot and test.
 ## Requirements
 
 We rely on Stan tuples and the interface between Stan tuples and R lists from
-cmdstanr. Therefore, the following relatively new versions of Stan and cmdstanr
-are needed to be able to run the code.
+cmdstanr. Therefore, the following relatively new versions of CmdStan and
+cmdstanr are needed to be able to run the code.
 
-- Stan: v2.33 or later.
+- CmdStan: v2.33 or later.
 - cmdstanr: a version that includes pull request #860 (*e.g*., GitHub
   development version later than September 29, 2023).
