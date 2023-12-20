@@ -8,7 +8,7 @@ The main code file with all the important implementations is
 `/code/rao/code/functions.stan`. The rest of the files are mainly calling
 functions from this file in order to benchmark, plot and test.
 
-## Overview of directories
+## Overview of directories and files
 
 - `/code/rao/code`: Contains code that was kept in sync with code run on the
   `rao` server.
