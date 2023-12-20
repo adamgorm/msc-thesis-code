@@ -31,3 +31,9 @@ functions from this file in order to benchmark, plot and test.
     data, to make sure that they give the same results.
 - `/code/stan`: Stan scripts for fitting and simulating from GPs. Called by
   scripts in `/code/R`.
+
+## Requirements
+
+- Stan: v2.33 or later.
+- cmdstanr: a version that includes pull request #860 (GitHub development
+  version later than September 29, 2023).
