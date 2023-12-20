@@ -28,6 +28,6 @@ functions from this file in order to benchmark, plot and test.
 - `/code/R`: R scripts, for instance for creating figures. These must be run
   from the base directory (i.e., outside of the `code` directory).
   - `/code/R/tests.R`: Tests that run all implementations on the same simulated
-    data, to make sure that they give the same.
+    data, to make sure that they give the same results.
 - `/code/stan`: Stan scripts for fitting and simulating from GPs. Called by
   scripts in `/code/R`.
